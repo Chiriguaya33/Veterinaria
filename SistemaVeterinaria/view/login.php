@@ -58,7 +58,7 @@
                         <h5>CONTRASEÑA</h5>
                         <input type="pass" name="pass" class="input">
                     </div>
-                    
+
                 </div>
 
                 <a href="">Created Warpiece</a>
@@ -71,5 +71,7 @@
     </div>
 
 </body>
+
+<script src="../js/login.js"></script>
 
 </html>
