@@ -30,7 +30,7 @@
 
         <div class="contenido-login">
 
-            <form action="">
+            <form action="../controller/LoginController.php" method="post">
 
                 <img src="../img/veterinario.png" alt="">
                 <h2>VETERINARIA</h2>
@@ -56,7 +56,7 @@
 
                     <div class="div">
                         <h5>CONTRASEÑA</h5>
-                        <input type="pass" name="pass" class="input">
+                        <input type="password" name="pass" class="input">
                     </div>
 
                 </div>
